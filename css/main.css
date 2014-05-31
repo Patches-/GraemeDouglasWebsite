@@ -123,8 +123,7 @@ textarea {
 
 #navdiv { width: 100%; max-width: 1220px; margin: auto; }
 
-#logo{float: left;}
-
+#logo { float: left; }
 #logo img{ padding-top: 4px; }
 
 /*=========== NAVIGATION ==========*/
@@ -132,10 +131,9 @@ textarea {
 .navi a { color: rgb(35,31,32); font-size: 22px; text-decoration: none; padding: 8px 8px 8px 8px; transition: color 0.5s ease-in; }
 .navi a:hover{ color: rgb(0,180,0); }
 
-.navclickcontainer { width: 100%; max-width: 1220px; height: 96px; position: relative; margin-left: auto; margin-right: auto; margin-top: 0; margin-bottom: 0; }
-.navclick{ position: absolute; height: 65px; width: 52px; bottom: 14px; right: 16px; }
-.navup{ height: 28px; width: 52px; margin-bottom: 8px; background-image: url('../img/navbutt.png'); }
-.navdown{ height: 25px; width: 52px; background-image: url('../img/navbutt.png'); background-position: 0 25px; }
+#email-link { text-align: center; }
+#email-link a { color: rgb(35,31,32); font-size: 30px; text-decoration: none; padding: 8px 8px 8px 8px; transition: color 0.5s ease-in; }
+#email-link a:hover{ color: rgb(0,180,0); }
 
 .section{ width: 100%; max-width: 1220px; position: relative; margin-left: auto; margin-right: auto; margin-top: 0; margin-bottom: 0; }
 .imagesection {position: relative; box-shadow: 0 0px 5px rgb(120,120,120); }
@@ -151,7 +149,6 @@ textarea {
 .textright a{ color: rgb(35,31,32); }
 
 .pad-small{ padding: 25px 0px 25px 0px; }
-
 
 #mugshot{ width: 100%; }
 #mugshot img{ height: 100%; width: 100%; margin-top: 5px; }
@@ -175,7 +172,6 @@ ul.ed-list{ list-style-type:none; margin:0; padding:0; }
 .details{font-size: 15px; position: relative; color:rgb(109,109,109); font-style: italic;}
 .awarddetails{margin-top: -6px; display: inline-block; font-size: 15px; position: relative; color:rgb(109,109,109); font-style: italic;}
 .year{font-size: 17px; float: right !important; color:rgb(109,109,109);}
-
 
 
 .cycle-slideshow img {width: 100%; overflow: hidden; display: none }
@@ -310,11 +306,12 @@ ol.custom-pager-nav {padding: 0;}
     .twothirds { width: 100%; }
     .forty{ width: 100%; }
     .sixty{ width: 100%; }
-    #bio { padding-top: 1em; padding-bottom: 1em; }
+    #bio { padding-top: 1em; }
     #logo img{ width: 100%; }
     #navdiv { padding-left: 0; padding-right: 0; }
     .ed-info { width: 84%; }
     #mugshot img { width: 50%; display: block; margin: auto; }
+    #email-link a { font-size: 22px; }
 }
 
 @media only screen and (max-width: 550px){
