@@ -30,12 +30,8 @@
   .flexnav li a {
     position: relative;
     display: block;
-    padding: .96em;
     z-index: 2;
-    overflow: hidden;
-    color: #222222;
-    background: #a6a6a2;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.15); }
+    overflow: hidden; }
   .flexnav li ul {
     width: 100%; }
     .flexnav li ul li {
@@ -121,9 +117,6 @@
       float: left;
       display: block;
       overflow: visible; }
-    .flexnav li a {
-      border-left: 1px solid #acaca1;
-      border-bottom: none; }
     .flexnav li > ul {
       position: absolute;
       top: auto;

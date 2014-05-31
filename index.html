@@ -12,10 +12,11 @@
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
-        <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="css/normalize.css">
-        <link href="css/flexnav.css" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="css/main.css">
+        <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css' />
+        <link rel="stylesheet" href="css/normalize.css" />
+        <link href="css/flexnav.css" rel="stylesheet" type="text/css" />
+        <link href="css/lightbox.css" rel="stylesheet" />
+        <link rel="stylesheet" href="css/main.css" />
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
 </head>
 <body>
@@ -36,11 +37,11 @@
 <div id="navdiv" class="clearfix">
     <nav class="navi">
         <ul data-breakpoint="768" class="flexnav">
-            <a data-scroll href="#aboutme"><li>About Me</li></a>
-            <a data-scroll href="#education"><li>Education &amp; Experience</li></a>
-            <a data-scroll href="#work"><li>Work</li></a>
-            <a data-scroll href="#"><li>Blog</li></a>
-            <a data-scroll href="#contact"><li>Contact</li></a>
+            <li><a data-scroll href="#aboutme">About Me</a></li>
+            <li><a data-scroll href="#education">Education &amp; Experience</a></li>
+            <li><a data-scroll href="#work">Work</a></li>
+            <li><a data-scroll href="#">Blog</a></li>
+            <li><a data-scroll href="#contact">Contact</a></li>
         </ul>
         <div class="menu-button">Menu</div>
     </nav>
@@ -212,6 +213,17 @@
 
 
 <div id="work" class="section pad-small clearfix">
+
+    <div class="box-50">
+        <a href="img/port1.jpg" data-lightbox="portfolio"><img src="img/port1.jpg" /></a>
+        <br>
+        <a href="img/port1.jpg" data-lightbox="portfolio"><img src="img/port1.jpg" /></a>
+    </div>
+    <div class="box-50">
+        <a href="img/port1.jpg" data-lightbox="portfolio"><img src="img/port1.jpg" /></a>
+        <br>
+        <a href="img/port1.jpg" data-lightbox="portfolio"><img src="img/port1.jpg" /></a>
+    </div>
     
     
 
@@ -246,6 +258,7 @@
 </div> <!--END OF WRAPPER-->
         
         <script src="js/vendor/jquery-1.11.0.min.js"></script>
+        <script src="js/lightbox.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
         <script type="text/javascript" src="js/jquery.flexnav.min.js"></script>
