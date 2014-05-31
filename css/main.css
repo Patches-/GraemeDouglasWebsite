@@ -149,15 +149,16 @@ textarea {
 
 #work img { padding-top: 1em; padding-bottom: 1em; }
 
-.box-50 { width: 50%; padding-left: 1em; padding-right: 1em; float: left; }
-.box-50 img { width: 100%; } 
+.box-50 { width: 100%; }
+.box-50 img { width: 50%; padding-left: 1em; padding-right: 1em; float: left; } 
 
 .pad-small{ padding: 25px 0px 25px 0px; }
+.pad-sides { padding-right: 1em; padding-left: 1em; }
 
 #mugshot{ width: 100%; }
 #mugshot img{ height: 100%; width: 100%; margin-top: 5px; }
 
-#ed-header{ font-size: 30px; color: rgb(35,31,32); }
+.title-font{ font-size: 30px; color: rgb(35,31,32); }
 
 ul.ed-list{ list-style-type:none; margin:0; padding:0; }
 
@@ -316,7 +317,7 @@ ol.custom-pager-nav {padding: 0;}
     .ed-info { width: 84%; }
     #mugshot img { width: 50%; display: block; margin: auto; }
     #email-link a { font-size: 22px; }
-    .box-50 { width: 100%; }
+    .box-50 img{ width: 100%; }
 }
 
 @media only screen and (max-width: 550px){

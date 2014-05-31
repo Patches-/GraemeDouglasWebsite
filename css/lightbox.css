@@ -180,7 +180,7 @@ body:after {
 }
 
 .lb-data .lb-number {
-  display: block;
+  display: none;
   clear: left;
   padding-bottom: 1em;
   font-size: 12px;
