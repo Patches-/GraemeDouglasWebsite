@@ -71,7 +71,7 @@
   display: block;
   padding: 1em;
   background: rgb(109,109,109);
-  color: black;
+  color: white;
   cursor: pointer;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2); }
   .menu-button.one-page {
@@ -93,7 +93,7 @@
       font-size: 16px;
       position: relative;
       top: 1em;
-      color: black; }
+      color: white; }
 
 @media all and (min-width: 768px) {
   body.one-page {

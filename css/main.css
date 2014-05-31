@@ -330,7 +330,7 @@ ol.custom-pager-nav {padding: 0;}
 
 /* Phone Portrait (320px) */
 @media only screen and (max-width: 320px) {
-    
+    ol.custom-pager-nav { display: none !important; }
 }
 
 
