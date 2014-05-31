@@ -1,0 +1,507 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"resizeVideo"
+			],
+			[
+				"video",
+				"videoheight"
+			],
+			[
+				"inclu",
+				"include"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"cust",
+				"custName"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"deta",
+				"detailX"
+			],
+			[
+				"play",
+				"playSound"
+			],
+			[
+				"sha",
+				"shadowBlur"
+			],
+			[
+				"be",
+				"beginPath"
+			],
+			[
+				"gr",
+				"greenRwidth"
+			],
+			[
+				"shadow",
+				"shadowColor"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"bord",
+				"border-left"
+			],
+			[
+				"cut",
+				"custom-pager"
+			],
+			[
+				"custom",
+				"custom-pager"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 12723,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 10395,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 338,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/flexnav.css",
+			"settings":
+			{
+				"buffer_size": 4848,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/rails_projects/demo_app/README",
+		"/E/Google Drive/WEB PROJECTS/BOILER PLATE & PLUGINS etc/flexnav-master/flexnav-master/index.html",
+		"/E/Google Drive/WEB PROJECTS/iabodyshop/index.html",
+		"/G/xampp/htdocs/project2/soundoff.php",
+		"/G/xampp/htdocs/project2/-SaberOn.wav",
+		"/G/xampp/htdocs/project2/includes/footer.php",
+		"/G/xampp/htdocs/project2/bondppk.php",
+		"/G/xampp/htdocs/project2/adminlogin.php",
+		"/G/xampp/htdocs/project2/aboutus.php",
+		"/G/xampp/htdocs/project2/login.php",
+		"/G/xampp/htdocs/project2/products.php",
+		"/G/xampp/htdocs/project2/register.php",
+		"/G/xampp/htdocs/project2/registeredcustomers.php",
+		"/G/xampp/htdocs/project2/template.php",
+		"/G/xampp/htdocs/project2/json.php",
+		"/G/xampp/htdocs/project2/index.php",
+		"/G/xampp/htdocs/project2/includes/sound.php",
+		"/G/xampp/htdocs/project2/css/style.css",
+		"/G/xampp/htdocs/project2/soundupdate.php",
+		"/G/xampp/htdocs/project2/includes/registerform.html",
+		"/E/Google Drive/WEB PROJECTS/stephenohara/index.html",
+		"/G/xampp/htdocs/hons-site/login_form.html",
+		"/G/xampp/htdocs/hons-site/members.php",
+		"/C/wamp/www/hons-site/login.php",
+		"/G/xampp/htdocs/hons-site/db.php",
+		"/G/xampp/htdocs/hons-site/header.php",
+		"/G/xampp/htdocs/hons-site/index.php",
+		"/G/xampp/htdocs/project2/register2.php",
+		"/G/xampp/htdocs/project2/includes/header.html",
+		"/G/xampp/htdocs/project2/registered.php",
+		"/G/xampp/htdocs/project2/js/javascript.js",
+		"/E/Google Drive/UNIVERSITY WORK/Web Development/week 7/exercise16-1.html",
+		"/E/Google Drive/UNIVERSITY WORK/Web Development/week 7/ajaxtest.html",
+		"/G/xampp/htdocs/project2/includes/footer.html",
+		"/G/xampp/htdocs/project2/index.html",
+		"/E/Google Drive/WEB PROJECTS/graeme - Copy/css/main.css",
+		"/E/Google Drive/WEB PROJECTS/graeme - Copy/js/plugins.js",
+		"/E/Google Drive/WEB PROJECTS/graeme - Copy/index.html",
+		"/E/Google Drive/WEB PROJECTS/BOILER PLATE & PLUGINS etc/jquery-sizzle-1.10.18-8-ga64d52a/jquery-sizzle-a64d52a/dist/sizzle.js",
+		"/E/Google Drive/WEB PROJECTS/BOILER PLATE & PLUGINS etc/jquery-sizzle-1.10.18-8-ga64d52a/jquery-sizzle-a64d52a/dist/sizzle.min.js",
+		"/E/Google Drive/WEB PROJECTS/BOILER PLATE & PLUGINS etc/jquery-sizzle-1.10.18-8-ga64d52a/jquery-sizzle-a64d52a/Gruntfile.js",
+		"/G/xampp/htdocs/project2/register.html",
+		"/E/Google Drive/WEB PROJECTS/graeme - Copy/js/main.js",
+		"/E/Google Drive/WEB PROJECTS/graeme - Copy/js/vendor/modernizr-2.6.2.min.js",
+		"/E/Google Drive/WEB PROJECTS/graeme - Copy/backup/g/js/main.js",
+		"/E/Google Drive/WEB PROJECTS/graeme - Copy/backup/g/js/plugins.js",
+		"/G/xampp/htdocs/section-19-examples/figure-19-15-16/database.php",
+		"/G/xampp/htdocs/section-19-examples/figure-19-15-16/data.html",
+		"/E/Google Drive/WEB PROJECTS/stephenohara/css/main.css",
+		"/E/Google Drive/WEB PROJECTS/stephenohara/js/main.js",
+		"/E/Google Drive/UNIVERSITY WORK/Web Development/project/js/javascript.js",
+		"/E/Google Drive/UNIVERSITY WORK/Web Development/project/index.html",
+		"/E/Google Drive/UNIVERSITY WORK/Web Development/project/SaberOn.wav",
+		"/E/Google Drive/WEB PROJECTS/graeme - Copy/js/jquery.smooth-scroll.js",
+		"/E/Google Drive/WEB PROJECTS/graeme/js/jquery.smooth-scroll.js",
+		"/E/Google Drive/WEB PROJECTS/graeme/js/plugins.js",
+		"/E/Google Drive/WEB PROJECTS/graeme/js/main.js",
+		"/E/Google Drive/WEB PROJECTS/graeme/css/main.css",
+		"/E/Google Drive/WEB PROJECTS/graeme/index.html",
+		"/E/Google Drive/WEB PROJECTS/graeme/css/normalize.css",
+		"/E/Google Drive/WEB PROJECTS/G mans/css/normalize.css",
+		"/E/Google Drive/WEB PROJECTS/G mans/humans.txt",
+		"/E/Google Drive/WEB PROJECTS/G mans/js/main.js",
+		"/E/Google Drive/WEB PROJECTS/G mans/index.html",
+		"/E/Google Drive/WEB PROJECTS/G mans/img/briefcase.png",
+		"/C/Users/stephen/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/stephen/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/G/xampp/htdocs/project/css/style.css",
+		"/E/Google Drive/UNIVERSITY WORK/Web Development/week 6/exercise14-5.html",
+		"/E/Google Drive/UNIVERSITY WORK/Web Development/week 6/exercise14-4.html",
+		"/E/Google Drive/UNIVERSITY WORK/Web Development/week 6/exercise14-1.html",
+		"/G/xampp/htdocs/project/index.html",
+		"/G/xampp/htdocs/project/js/javascript.js",
+		"/G/xampp/htdocs/project/js/javascript - Backup.js",
+		"/E/Google Drive/WEB PROJECTS/G mans/css/main.css",
+		"/E/Google Drive/WEB PROJECTS/BOILER PLATE & PLUGINS etc/jquery-smooth-scroll-master/jquery-smooth-scroll-master/jquery.smooth-scroll.min.js",
+		"/E/Google Drive/WEB PROJECTS/G mans/js/plugins.js",
+		"/C/Users/stephen/Desktop/style.css",
+		"/C/Users/stephen/Desktop/test.html",
+		"/E/Google Drive/WEB PROJECTS/iabodyshop/css/main.css",
+		"/E/Google Drive/WEB PROJECTS/iabodyshop/js/plugins.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@",
+			"2.map",
+			".map",
+			"map",
+			"header.html",
+			"includes/header.php",
+			"clear",
+			"class=\"scroll\"",
+			"scroll",
+			"class=\"scroll\"",
+			"data",
+			"data-scroll",
+			"scroll",
+			"data-scroll",
+			"id=\"work\"",
+			"class=\"work",
+			"class=\"scroll\"",
+			"class",
+			"class=\"scroll\"",
+			"class=\"scr",
+			"class=\"scroll\"",
+			"scr",
+			"div",
+			"a",
+			"educat",
+			"png",
+			"Images",
+			"margin",
+			"ed-",
+			"li",
+			"border-",
+			"border-bo",
+			"after",
+			"c:",
+			"c",
+			"/div",
+			"p",
+			"close",
+			"textX",
+			"movie",
+			"myRectangle",
+			"context",
+			"overf"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 12723,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11967,
+								11967
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4488.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/main.css",
+					"settings":
+					{
+						"buffer_size": 10395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3910,
+								3910
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2109.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/main.js",
+					"settings":
+					{
+						"buffer_size": 338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								285,
+								285
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/flexnav.css",
+					"settings":
+					{
+						"buffer_size": 4848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								940,
+								940
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 139.0,
+	"status_bar_visible": true
+}
