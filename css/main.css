@@ -118,54 +118,54 @@ textarea {
   box-sizing: border-box; }
 
 
-#wrapper{ margin: auto;}
-#header{ padding-left: 1em; padding-right: 1em; width: 100%; max-width: 1220px; height: 120px; background-color: white;}
+#wrapper{ margin: auto; }
+#header{ padding-left: 1em; padding-right: 1em; width: 100%; max-width: 1220px; }
+
+#navdiv { width: 100%; max-width: 1220px; margin: auto; }
 
 #logo{float: left;}
 
+#logo img{ padding-top: 4px; }
+
 /*=========== NAVIGATION ==========*/
-.navi{ /* position: absolute; bottom: 2px; right: 0; */}
-.navi li{ padding-right: 12px;}
-.navi a { color: rgb(35,31,32); font-size: 22px; text-decoration: none; padding: 8px 8px 8px 8px; transition: color 0.5s ease-in;}
+.navi li{ padding-left: 24px; }
+.navi a { color: rgb(35,31,32); font-size: 22px; text-decoration: none; padding: 8px 8px 8px 8px; transition: color 0.5s ease-in; }
 .navi a:hover{ color: rgb(0,180,0); }
 
 .navclickcontainer { width: 100%; max-width: 1220px; height: 96px; position: relative; margin-left: auto; margin-right: auto; margin-top: 0; margin-bottom: 0; }
-.navclick{ position: absolute; height: 65px; width: 52px; bottom: 14px; right: 16px;}
-.navup{ height: 28px; width: 52px; margin-bottom: 8px; background-image: url('../img/navbutt.png');}
+.navclick{ position: absolute; height: 65px; width: 52px; bottom: 14px; right: 16px; }
+.navup{ height: 28px; width: 52px; margin-bottom: 8px; background-image: url('../img/navbutt.png'); }
 .navdown{ height: 25px; width: 52px; background-image: url('../img/navbutt.png'); background-position: 0 25px; }
 
 .section{ width: 100%; max-width: 1220px; position: relative; margin-left: auto; margin-right: auto; margin-top: 0; margin-bottom: 0; }
-.imagesection {position: relative; box-shadow: 0 0px 5px rgb(120,120,120);}
+.imagesection {position: relative; box-shadow: 0 0px 5px rgb(120,120,120); }
 .imagesection img{ width:100%; }
 .onethird{ position: relative; width: 33.33333%; }
 .twothirds{ position: relative; width: 66.66667%; }
 .forty{ position: relative; width: 45%; }
 .sixty{ position: relative; width: 55%; }
-.column{ float: left; padding-left: 1em; padding-right: 1em;}
+.column{ float: left; padding-left: 1em; padding-right: 1em; }
 .line{ width: 100%; background:rgb(62,147,67) ; height: 2px; margin: 2px 0px 20px 0px; }
 .maintext p{ color: rgb(35,31,32); font-size: 18px; text-align: justify; }
-.textright{ font-style: normal; float: right;}
-.textright a{ color: rgb(35,31,32);}
+.textright{ font-style: normal; float: right; }
+.textright a{ color: rgb(35,31,32); }
 
-.pad-small{ padding: 25px 0px 0px 0px; }
-.pad-large{ padding: 25px 0px 25px 0px; }
+.pad-small{ padding: 25px 0px 25px 0px; }
 
-#logo img{height: 120px; padding-top: 2px;}
 
-#mugshot{ margin: 5px; width: 100%; }
-#mugshot img{ height: 100%; width: 100%; }
-#bio{ }
+#mugshot{ width: 100%; }
+#mugshot img{ height: 100%; width: 100%; margin-top: 5px; }
 
-#ed-header{ font-size: 30px; color: rgb(35,31,32);}
+#ed-header{ font-size: 30px; color: rgb(35,31,32); }
 
 ul.ed-list{ list-style-type:none; margin:0; padding:0; }
 
 /*========== SVG Positions ==========*/
-#brief{background-image: url('../img/edawards.svg');}
-#troph{background-image: url('../img/edawards.svg'); background-position: 0 80px;}
-#cert{background-image: url('../img/edawards.svg'); background-position: 0 160px;}
-#hammer{background-image: url('../img/edawards.svg'); background-position: 0 240px;}
-#pencil{background-image: url('../img/edawards.svg'); background-position: 0 400px;}
+#brief{background-image: url('../img/edawards.svg'); background-position: 0 0; }
+#troph{background-image: url('../img/edawards.svg'); background-position: 0 80px; }
+#cert{background-image: url('../img/edawards.svg'); background-position: 0 160px; }
+#hammer{background-image: url('../img/edawards.svg'); background-position: 0 240px; }
+#pencil{background-image: url('../img/edawards.svg'); background-position: 0 400px; }
 
 .ed-img{ height:80px; width: 80px ;float: left; }
 .ed-info{ padding-bottom: 12px; margin: 6px 0 6px 0; min-height: 80px; width: 84%; font-size: 19px; float: right;}
@@ -188,11 +188,7 @@ ol.custom-pager-nav {padding: 0;}
 .custom-pager li.cycle-pager-active a { background: #fff; background: #fff; cursor: default; height: 10px; width: 10px; position: relative; top: 3px; }
 .custom-pager li a:hover { background: #fff; }
 
-#per-slide-template {text-align: center;}
-#per-slide-template a{ padding: 40px; color: rgb(35,31,32); font-size: 30px; text-decoration: none; transition: color 0.5s ease-in;}
-#per-slide-template a:hover{ color: rgb(0,180,0); }
 
-#per-slide-template a.cycle-pager-active { padding: 20px 36px; border-left: 4px rgb(0,180,0) solid; border-bottom: 4px rgb(0,180,0) solid; border-right: 4px rgb(0,180,0) solid; }
 
 /* ==========================================================================
    Helper classes
@@ -296,14 +292,46 @@ ol.custom-pager-nav {padding: 0;}
 }
 
 /* ==========================================================================
-   EXAMPLE Media Queries for Responsive Design.
-   These examples override the primary ('mobile first') styles.
-   Modify as content requires.
+   Media Queries for Responsive Design.
    ========================================================================== */
 
-@media only screen and (min-width: 35em) {
-    /* Style adjustments for viewports that meet the condition */
+/* Laptop/Tablet (1024px) */
+@media only screen and (min-width: 481px) and (max-width: 1024px) and (orientation: landscape) {
+  
 }
+
+@media only screen and (max-width: 986px){
+    .ed-info { width: 75%; }
+}
+
+/* Tablet Portrait (768px) */
+@media only screen and (max-width: 768px) {
+    .onethird { width: 100%; }
+    .twothirds { width: 100%; }
+    .forty{ width: 100%; }
+    .sixty{ width: 100%; }
+    #bio { padding-top: 1em; padding-bottom: 1em; }
+    #logo img{ width: 100%; }
+    #navdiv { padding-left: 0; padding-right: 0; }
+    .ed-info { width: 84%; }
+    #mugshot img { width: 50%; display: block; margin: auto; }
+}
+
+@media only screen and (max-width: 550px){
+    .ed-info { width: 70%; }
+}
+/* Phone Landscape (480px) */
+@media only screen and (min-width: 321px) and (max-width: 480px) and (orientation: landscape) {
+    
+}
+
+/* Phone Portrait (320px) */
+@media only screen and (max-width: 320px) {
+    
+}
+
+
+
 
 @media print,
        (-o-min-device-pixel-ratio: 5/4),
