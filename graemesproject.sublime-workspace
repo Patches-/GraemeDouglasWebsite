@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"ed",
+				"ed-info"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"onet",
+				"onethird"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
 				"re",
 				"resizeVideo"
 			],
@@ -26,10 +50,6 @@
 			[
 				"cust",
 				"custName"
-			],
-			[
-				"padding",
-				"padding-top"
 			],
 			[
 				"margin",
@@ -119,7 +139,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 12723,
+				"buffer_size": 12205,
 				"line_ending": "Unix"
 			}
 		},
@@ -127,7 +147,15 @@
 			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 10395,
+				"buffer_size": 10737,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/lightbox.css",
+			"settings":
+			{
+				"buffer_size": 3873,
 				"line_ending": "Unix"
 			}
 		},
@@ -140,10 +168,34 @@
 			}
 		},
 		{
+			"file": "js/lightbox.min.js",
+			"settings":
+			{
+				"buffer_size": 7769,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "css/flexnav.css",
 			"settings":
 			{
-				"buffer_size": 4848,
+				"buffer_size": 4630,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 12194,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/g/wordpress/wp-content/themes/homepage.php",
+			"settings":
+			{
+				"buffer_size": 12193,
 				"line_ending": "Unix"
 			}
 		}
@@ -172,6 +224,11 @@
 	},
 	"file_history":
 	[
+		"/home/stephen/Desktop/migration-theme-master/index.php",
+		"/var/www/html/g/wordpress/wp-content/themes/Custom Templates/homepage.php",
+		"/var/www/html/g/wordpress/wp-content/themes/my-theme/my-templates/homepage.php",
+		"/web_projects/Graeme_Douglas_Website/js/lightbox.min.js",
+		"/media/stephen/DATA/Google Drive/WEB PROJECTS/graeme - Copy/js/jquery.flexnav.min.js",
 		"/rails_projects/demo_app/README",
 		"/E/Google Drive/WEB PROJECTS/BOILER PLATE & PLUGINS etc/flexnav-master/flexnav-master/index.html",
 		"/E/Google Drive/WEB PROJECTS/iabodyshop/index.html",
@@ -270,6 +327,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"title",
+			"ed",
+			"number",
+			"lb",
+			"lb-number",
+			"work",
+			"navi",
+			"bio",
 			"@",
 			"2.map",
 			".map",
@@ -330,7 +395,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -338,15 +403,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 12723,
+						"buffer_size": 12205,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11967,
-								11967
+								7891,
+								7891
 							]
 						],
 						"settings":
@@ -356,25 +421,31 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4488.0,
+						"translation.y": 3366.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
 				{
 					"buffer": 1,
 					"file": "css/main.css",
 					"settings":
 					{
-						"buffer_size": 10395,
+						"buffer_size": 10737,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3910,
-								3910
+								9077,
+								9077
 							]
 						],
 						"settings":
@@ -384,13 +455,47 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2109.0,
+						"translation.y": 5292.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
+					"file": "css/lightbox.css",
+					"settings":
+					{
+						"buffer_size": 3873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3376,
+								3376
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2601.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
 					"file": "js/main.js",
 					"settings":
 					{
@@ -401,8 +506,8 @@
 						"selection":
 						[
 							[
-								285,
-								285
+								338,
+								338
 							]
 						],
 						"settings":
@@ -416,25 +521,113 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "css/flexnav.css",
+					"buffer": 4,
+					"file": "js/lightbox.min.js",
 					"settings":
 					{
-						"buffer_size": 4848,
+						"buffer_size": 7769,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								940,
-								940
+								7769,
+								7769
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 296.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "css/flexnav.css",
+					"settings":
+					{
+						"buffer_size": 4630,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1734,
+								1734
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1071.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 12194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/var/www/html/g/wordpress/wp-content/themes/homepage.php",
+					"settings":
+					{
+						"buffer_size": 12193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -463,16 +656,36 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.504597701149,
 			1.0
 		],
 		"rows":
 		[
 			0.0,
+			0.5,
 			1.0
 		]
 	},
@@ -502,6 +715,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 139.0,
+	"side_bar_width": 180.0,
 	"status_bar_visible": true
 }

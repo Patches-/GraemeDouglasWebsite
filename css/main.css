@@ -158,6 +158,8 @@ textarea {
 #mugshot{ width: 100%; }
 #mugshot img{ height: 100%; width: 100%; margin-top: 5px; }
 
+#cqlink { width: 300px; margin: auto; }
+
 .title-font{ font-size: 30px; color: rgb(35,31,32); }
 
 ul.ed-list{ list-style-type:none; margin:0; padding:0; }

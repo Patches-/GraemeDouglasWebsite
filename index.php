@@ -1,24 +1,26 @@
+<?php /* Template Name: Homepage 
+*/ ?>
+
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Graeme Douglas - Designer</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Graeme Douglas - Designer</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
-        <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css' />
-        <link rel="stylesheet" href="css/normalize.css" />
-        <link href="css/flexnav.css" rel="stylesheet" type="text/css" />
-        <link href="css/lightbox.css" rel="stylesheet" />
-        <link href="css/hover-min.css" rel="stylesheet" />
-        <link rel="stylesheet" href="css/main.css" />
-        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css' />
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link href="css/flexnav.css" rel="stylesheet" type="text/css" />
+    <link href="css/lightbox.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/main.css" />
+    <script src="js/vendor/modernizr-2.6.2.min.js"></script>
 </head>
 <body>
     <!--[if lt IE 7]>
@@ -41,7 +43,7 @@
             <li><a data-scroll href="#aboutme">About Me</a></li>
             <li><a data-scroll href="#education">Education &amp; Experience</a></li>
             <li><a data-scroll href="#work">Work</a></li>
-            <li><a data-scroll href="http://gfdouglas.blogspot.co.uk/">Blog</a></li>
+            <li><a data-scroll href="#">Blog</a></li>
             <li><a data-scroll href="#contact">Contact</a></li>
         </ul>
         <div class="menu-button">Menu</div>
@@ -170,9 +172,7 @@
 
             </ul>
 
-            <div id="cqlink">
-                <a class="wobble-vertical button" href="http://cq.iriss.org.uk/science/see-sessions/impact-arts" target="_blank"><img src="img/cq-link.jpg" alt="Link to creative quarter presentation" /></a>
-            </div>
+            <h1>**LINK TO PRESENTATION GOES HERE**</h1>
     </div>
 
     <div id="education" class="forty column">
@@ -230,14 +230,14 @@
     </div>
 
     <div class="box-50">
-        <a href="img/port1.jpg" data-lightbox="portfolio"><img src="img/port1.jpg" alt="Portfolio Image" /></a>
+        <a href="img/port1.jpg" data-lightbox="portfolio"><img src="img/port1.jpg" /></a>
         
-        <a href="img/port2.jpg" data-lightbox="portfolio"><img src="img/port2.jpg" alt="Portfolio Image" /></a>
+        <a href="img/port2.jpg" data-lightbox="portfolio"><img src="img/port2.jpg" /></a>
     </div>
     <div class="box-50">
-        <a href="img/port3.jpg" data-lightbox="portfolio"><img src="img/port3.jpg" alt="Portfolio Image" /></a>
+        <a href="img/port1.jpg" data-lightbox="portfolio"><img src="img/port1.jpg" /></a>
         
-        <a href="img/port4.jpg" data-lightbox="portfolio"><img src="img/port4.jpg" alt="Portfolio Image" /></a>
+        <a href="img/port1.jpg" data-lightbox="portfolio"><img src="img/port1.jpg" /></a>
     </div>
     
     
