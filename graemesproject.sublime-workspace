@@ -139,7 +139,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 12205,
+				"buffer_size": 12473,
 				"line_ending": "Unix"
 			}
 		},
@@ -147,7 +147,7 @@
 			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 10737,
+				"buffer_size": 10779,
 				"line_ending": "Unix"
 			}
 		},
@@ -184,18 +184,10 @@
 			}
 		},
 		{
-			"file": "index.php",
+			"file": "css/hover-min.css",
 			"settings":
 			{
-				"buffer_size": 12194,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/var/www/html/g/wordpress/wp-content/themes/homepage.php",
-			"settings":
-			{
-				"buffer_size": 12193,
+				"buffer_size": 37447,
 				"line_ending": "Unix"
 			}
 		}
@@ -224,6 +216,10 @@
 	},
 	"file_history":
 	[
+		"/var/www/html/g/wordpress/wp-content/themes/twentyfourteen/page.php",
+		"/web_projects/Graeme_Douglas_Website/css/hover-min.css",
+		"/web_projects/Graeme_Douglas_Website/index.php",
+		"/var/www/html/g/wordpress/wp-content/themes/homepage.php",
 		"/home/stephen/Desktop/migration-theme-master/index.php",
 		"/var/www/html/g/wordpress/wp-content/themes/Custom Templates/homepage.php",
 		"/var/www/html/g/wordpress/wp-content/themes/my-theme/my-templates/homepage.php",
@@ -327,6 +323,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"img",
+			"education",
+			"ed",
+			"education",
 			"title",
 			"ed",
 			"number",
@@ -403,15 +403,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 12205,
+						"buffer_size": 12473,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7891,
-								7891
+								11472,
+								11472
 							]
 						],
 						"settings":
@@ -421,7 +421,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3366.0,
+						"translation.y": 5168.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -437,15 +437,15 @@
 					"file": "css/main.css",
 					"settings":
 					{
-						"buffer_size": 10737,
+						"buffer_size": 10779,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9077,
-								9077
+								10779,
+								10779
 							]
 						],
 						"settings":
@@ -455,7 +455,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 5292.0,
+						"translation.y": 4182.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -483,7 +483,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2601.0,
+						"translation.y": 1632.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -491,7 +491,7 @@
 			]
 		},
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -549,7 +549,7 @@
 			]
 		},
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -582,53 +582,23 @@
 				},
 				{
 					"buffer": 6,
-					"file": "index.php",
+					"file": "css/hover-min.css",
 					"settings":
 					{
-						"buffer_size": 12194,
+						"buffer_size": 37447,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								37,
-								37
+								37447,
+								37447
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/var/www/html/g/wordpress/wp-content/themes/homepage.php",
-					"settings":
-					{
-						"buffer_size": 12193,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								14,
-								14
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
